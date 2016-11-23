@@ -1,4 +1,4 @@
-## Proyecto Lunar landing
+## Proyecto "lunar landing"
 ***
 Se ha creado una rama que se llama *“minifier”*, en la cual hay todo el código escrito en formato minifier(todo en una sola línea)
 
