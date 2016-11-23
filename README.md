@@ -13,6 +13,6 @@ En el directorio raíz (rama master) hay tres archivos:
 * [**about.html**](https://github.com/Fpocovi/lunarlanding/tree/master/about.html): en esta página se explica todo lo que se ha hecho en esta aplicación. 
 * [**howplay.html**](https://github.com/Fpocovi/lunarlanding/tree/master/howplay.html): Aquí se pondrá en el futuro una breve descripción de cómo se puede jugar a dicha aplicación.
 
-En la parte izquierda del proyecto están los valores básicos del cohete (fuel, altura, velocidad) los valores han sido creados en otra division para poder ser modificables independientemente.
+En la parte izquierda del proyecto están los valores básicos del cohete (fuel, altura, velocidad) los valores han sido creados en otra división para poder ser modificables independientemente.
 
 En la parte derecha se ha creado una división con una lista de links en los cuales están las opciones básicas del proyecto. En esa parte de la pantalla hay dos links de las páginas web about.html y howplay.html las cuales abren una ventana nueva cada vez que se le da el click.
