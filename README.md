@@ -1,6 +1,6 @@
 ## Proyecto "lunar landing"
 ***
-Se ha creado una rama que se llama *“minifier”*, en la cual hay todo el código escrito en formato minifier (todo en una sola línea)
+Se ha creado una rama que se llama [*“minifier”*](https://github.com/Fpocovi/lunarlanding/tree/minifier), en la cual hay todo el código escrito en formato minifier (todo en una sola línea)
 
 En la rama principal (*master*) está todo el proyecto perfectamente identado 
 
