@@ -2,7 +2,7 @@
 ***
 Se ha creado una rama que se llama [*“minifier”*](https://github.com/Fpocovi/lunarlanding/tree/minifier), en la cual hay todo el código escrito en formato minifier (todo en una sola línea)
 
-En la rama principal (*master*) está todo el proyecto perfectamente identado 
+En la rama principal ([*master*](https://github.com/Fpocovi/lunarlanding)) está todo el proyecto perfectamente identado 
 
 La imagen de la luna esta extraída de la web https://www.flickr.com/photos/nasacommons/5052125139/in/photostream/ como se ve en dicha dirección se menciona que no tiene restricciones de derechos de autor. La imagen se ha modificado dejando por un lado solo la imagen de la tierra (luna.jpg) y por otro lado la zona de la luna se ha modificado y recortado como zona de aterrizaje (landzone.png).
 
